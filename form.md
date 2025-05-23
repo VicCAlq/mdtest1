@@ -1,5 +1,5 @@
 ---
-###DRYDOCKING REPAIR SPECIFICATION
+### DRYDOCKING REPAIR SPECIFICATION
 ---
 
 | Date of first issue:<br><img width=500px> | Project No:<br><img width=500px> |
